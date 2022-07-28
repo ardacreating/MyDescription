@@ -1,4 +1,4 @@
-Hi 👋 My name is Arda
+Hi 👋 My name is Arda Im from Turkey
 =====================
 
 I creating websites, python projects and more!
